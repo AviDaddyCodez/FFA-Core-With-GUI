@@ -1,0 +1,6 @@
+name: FFA CORE!
+main: Shouldz\Core
+version: 1.0.0
+api: [3.0.0, 3.3.3, 4.0.0]
+author: 'Loggy'
+website: 'https://github.com/Loggy1218'
