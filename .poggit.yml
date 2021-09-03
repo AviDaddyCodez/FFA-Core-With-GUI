@@ -1,0 +1,6 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/LoggyGamer12/FFA-Core-With-GUI
+build-by-default: true
+branches:
+- main
+projects: []
+...
